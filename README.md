@@ -1,7 +1,7 @@
 # KasiTime
 A chrome extension helping to grab kasi on http://www.kasi-time.com/
 #Confirmed Nonsense
-Get annoyed about the uncopyable kasi on kasi-time and wrote the extension in Jan. 2015.
+Got annoyed about the uncopyable kasi on kasi-time and wrote the extension in Jan. 2015.
 
 Find the extension helpful before realizing that other extensions like "Enable Coby" does far more usage!!! T_T
 
