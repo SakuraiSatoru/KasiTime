@@ -1,3 +1,6 @@
+# Notice
+Cause of Kasitime website update, this extension needs to be fixed
+
 # KasiTime
 A chrome extension helping to grab kasi on http://www.kasi-time.com/
 #Confirmed Nonsense
